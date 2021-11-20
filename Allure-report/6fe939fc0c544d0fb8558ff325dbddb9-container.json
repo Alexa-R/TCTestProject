@@ -1,0 +1,44 @@
+{
+  "uuid": "13e2d33e-d994-4c7f-b59c-beb0a9eb1849-tc-0-1021",
+  "name": "AutomationPracticeProject.TestCases.UiTestCases.HomePage.AddProduct.AddProductToCartFromHomePage",
+  "children": [
+    "294e81aa-d50b-4c39-ac3d-55c5be1a2030-tr-0-1022"
+  ],
+  "befores": [
+    {
+      "name": "SetUpTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1637422311721,
+      "stop": 1637422311721
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDownTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1637422311721,
+      "stop": 1637422311721
+    }
+  ],
+  "links": [],
+  "start": 1637422302684,
+  "stop": 1637422311777
+}

@@ -1,0 +1,9 @@
+2021-11-20 18:31:45,867 INFO AutomationPracticeProject.Helpers.LogHelper - Browser started.
+2021-11-20 18:31:49,050 INFO AutomationPracticeProject.Helpers.LogHelper - Browser navigated to the url [http://automationpractice.com/index.php].
+2021-11-20 18:31:49,168 INFO AutomationPracticeProject.Helpers.LogHelper - Browser maximized.
+2021-11-20 18:31:49,172 INFO AutomationPracticeProject.Helpers.LogHelper - Moving to 1 product card
+2021-11-20 18:31:49,507 INFO AutomationPracticeProject.Helpers.LogHelper - Getting the Product Title of the 1 product card
+2021-11-20 18:31:49,537 INFO AutomationPracticeProject.Helpers.LogHelper - Clicking on the Add To Cart Button in 1 product card
+2021-11-20 18:31:49,584 INFO AutomationPracticeProject.Helpers.LogHelper - Clicking on the ProceedToCheckout Button
+2021-11-20 18:31:51,499 INFO AutomationPracticeProject.Helpers.LogHelper - Getting the Last Product Title
+2021-11-20 18:31:51,718 INFO AutomationPracticeProject.Helpers.LogHelper - Browser closed.
