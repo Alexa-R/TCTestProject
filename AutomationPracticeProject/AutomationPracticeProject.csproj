@@ -545,7 +545,6 @@
     <Compile Include="TestCases\UiTestCases\PLP\FilteringRule.cs" />
     <Compile Include="TestCases\UiTestCases\PLP\SortingRule.cs" />
     <Compile Include="TestCases\UiTestCases\Search\Plp.cs" />
-    <Compile Include="TestCases\UiTestCases\Search\SearchResultPopup.cs" />
     <Compile Include="WrapperElement\WrapperWebElement.cs" />
     <Compile Include="WrapperFactory\WebDriverFactory.cs" />
   </ItemGroup>
